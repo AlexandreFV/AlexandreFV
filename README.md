@@ -1,16 +1,32 @@
-## Hi there 👋
+# Alexandre José Peixoto dos Santos
 
-<!--
-**AlexandreFV/AlexandreFV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Back-end .NET com foco em APIs REST utilizando C# e ASP.NET Core.
 
-Here are some ideas to get you started:
+## Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C#
+- ASP.NET Core
+- Entity Framework Core
+- SQL Server
+- PostgreSQL
+- JWT
+- Docker
+- xUnit
+- Clean Architecture
+
+## Projetos em destaque
+
+### Biblioteca API REST
+API REST utilizando ASP.NET Core, Clean Architecture, JWT, testes automatizados e PostgreSQL.
+
+### SC-Manager
+Aplicativo para gerenciamento de serviços e clientes com integração de IA Gemini.
+
+### Sistema Pousada
+Sistema web de reservas utilizando ASP.NET Core MVC e SQL Server.
+
+## Contato
+
+- LinkedIn
+- Email
+- Portfolio
