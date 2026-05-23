@@ -29,9 +29,3 @@ Aplicativo para gerenciamento de serviços e clientes com integração de IA Gem
 
 ### Sistema Pousada
 Sistema web de reservas utilizando ASP.NET Core MVC e SQL Server.
-
-## Contato
-
-- LinkedIn
-- Email
-- Portfolio
