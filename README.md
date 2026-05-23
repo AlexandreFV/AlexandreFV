@@ -7,6 +7,9 @@ Desenvolvedor Back-end .NET com foco em APIs REST utilizando C# e ASP.NET Core.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791)
 ![Docker](https://img.shields.io/badge/Docker-Container-2496ED)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreFV&layout=compact&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandreFV&show_icons=true&theme=dark)
+
 ## Tecnologias
 
 - C#
